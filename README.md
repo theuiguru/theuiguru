@@ -1,4 +1,4 @@
-# Hi there!
+# 👋🏾 Hi there!
 
 ![Michael Scott](https://media4.giphy.com/media/tQSvunNhTuo24/giphy.gif?cid=ecf05e470nre2eyiy849v3m6thsghil4a0niq02foez72tpj&rid=giphy.gif)
 
@@ -11,5 +11,4 @@
 🏋️‍♂️
 
 **Follow me on social**:
-[Twitter](https://twitter.com/cthomas1211) | 
-[LinkedIn](https://linkedin.com/in/christhomas101)
+[Twitter](https://twitter.com/cthomas1211) | [LinkedIn](https://linkedin.com/in/christhomas101)
