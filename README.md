@@ -1,4 +1,4 @@
-# 👋🏾 Hi there!
+# 🖖🏾 Hi there!
 
 *Every protagonist of every story, show, or movie is the story of my life.*
 
