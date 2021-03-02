@@ -9,6 +9,8 @@
 
 ![Charlie Work](https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif?cid=ecf05e472b3700a0765be9388b7c64d0e8b41a67519728fa&rid=giphy.gif)
 
+![Brick Tamland](https://media0.giphy.com/media/s32AOCdWc91ao/giphy.gif)
+
 ## Interests:
 - 💻 Technology
 - ⛳ Golf
