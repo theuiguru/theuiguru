@@ -14,8 +14,8 @@
 ## Interests:
 - 💻 Technology
 - ⛳ Golf
-- 🧘🏽‍♂️Faith/Philosophy
-- 🏋️‍♂️Fitness
+- 🧘🏽‍♂️ Faith/Philosophy
+- 🏋️‍♂️ Fitness
 
 ## Skills:
 - Front-End: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
