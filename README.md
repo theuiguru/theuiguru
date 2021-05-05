@@ -14,7 +14,7 @@
 ## Interests:
 - 💻 Technology
 - ⛳ Golf
-- 🧘🏽‍♂️ Faith/Philosophy
+- 🧘🏽‍♂️ Philosophy
 - 🏋️‍♂️ Fitness
 
 ## Skills:
