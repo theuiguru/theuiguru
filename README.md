@@ -20,7 +20,7 @@
 ## Skills:
 - Front-End: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
 - Back-End: C#, PHP, Java
-- Data Analysis: SQL, Python, R
+- Data Analytics: SQL, Python, R
 
 ## Follow me on social:
 - [Codepen](https://codepen.io/cthomas)
