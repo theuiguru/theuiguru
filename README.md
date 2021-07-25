@@ -3,7 +3,6 @@
 *Every protagonist of every story, show, or movie is the story of my life.*
 
 ![Chris' GitHub Stats](https://github-readme-stats.vercel.app/api?username=theuiguru&count_private=true&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theuiguru&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Michael Scott](https://i.imgur.com/HTBxpUz.png)
 
