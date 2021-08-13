@@ -12,17 +12,17 @@
 ![Power Rangers](https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif?cid=82a1493bbwntmysi6q7atew19hnrnwxxmky3q62fm38p4g6k&rid=giphy.gif)
 ![George Costanza](https://media2.giphy.com/media/Yy2H6trIkODoA/giphy.gif?cid=82a1493bzr9ikhrwdsu6126ibahrlk0gzpltak4mspdygcmq&rid=giphy.gif)
 
-## Interests:
+### Interests:
 - 💻 Technology
 - ⛳ Golf
 - 🧘🏽‍♂️ Philosophy
 - 🏋️‍♂️ Fitness
 
-## Skills:
+### Skills:
 - Front-End: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
 - Back-End: C#, PHP, Java, Python, R, SQL
 
-## Follow me on social:
+### Follow me on social:
 - [Blogger](https://theuiguru.blogspot.com)
 - [Codepen](https://codepen.io/cthomas)
 - [Twitter](https://twitter.com/cthomas1211)
