@@ -12,17 +12,17 @@
 ![Jimmy McGill](https://media1.giphy.com/media/l0EwYGlvQ7STj3wyc/giphy.gif?cid=82a1493bqxqne8ng9pyocwzqhi6aorb201mo6d2059bxejgl&rid=giphy.gif)
 ![Power Rangers](https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif?cid=82a1493bbwntmysi6q7atew19hnrnwxxmky3q62fm38p4g6k&rid=giphy.gif)
 
-### Interests:
+### Interests
 - 💻 Technology
 - ⛳ Golf
 - 🧘🏽‍♂️ Philosophy
 - 🏋️‍♂️ Fitness
 
-### Skills:
+### Skills
 - Front-End: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
 - Back-End: C#, PHP, Java, Python, R, SQL
 
-### Follow me on social:
+### Follow me on social
 - [Blogger](https://theuiguru.blogspot.com)
 - [Codepen](https://codepen.io/cthomas)
 - [Twitter](https://twitter.com/cthomas1211)
