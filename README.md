@@ -18,13 +18,8 @@
 - 🏋️‍♂️ Fitness
 
 ### Skills
-- Front-End: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
-- Back-End: C#, PHP, Java, Python, R, SQL
+- **Front-End**: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
+- **Back-End**: C#, PHP, Java, Python, R, SQL
 
 ### Follow me on social
-- [Blogger](https://theuiguru.blogspot.com)
-- [Codepen](https://codepen.io/cthomas)
-- [Twitter](https://twitter.com/cthomas1211)
-- [LinkedIn](https://linkedin.com/in/christhomas101)
-- [Instagram](https://instagr.am/cthomas1211)
-- [YouTube](https://youtube.com/ndnweb24)
+- [Blogger](https://theuiguru.blogspot.com) | [Codepen](https://codepen.io/cthomas) | [Twitter](https://twitter.com/cthomas1211) | [LinkedIn](https://linkedin.com/in/christhomas101) | [Instagram](https://instagr.am/cthomas1211) | [YouTube](https://youtube.com/ndnweb24)
