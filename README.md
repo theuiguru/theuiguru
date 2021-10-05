@@ -21,6 +21,7 @@
 ### Skills
 - **Front-End**: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
 - **Back-End**: C#, PHP, Java, Python, R, SQL
+- **Mobile**: PWA, React Native, Flutter
 
 ### Follow Me
 - [Blogger](https://theuiguru.blogspot.com) | [Codepen](https://codepen.io/cthomas) | [Twitter](https://twitter.com/cthomas1211) | [LinkedIn](https://linkedin.com/in/christhomas101) | [Instagram](https://instagr.am/cthomas1211) | [YouTube](https://youtube.com/ndnweb24)
