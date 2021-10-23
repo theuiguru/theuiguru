@@ -19,7 +19,7 @@
 
 ### Skills
 - **Front-End**: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
-- **Back-End**: C#, PHP, Java, Python, R, SQL
+- **Back-End**: Java, C#, SQL, PHP, Python, Ruby, R
 - **Mobile**: PWA, React Native, Flutter
 
 ### Follow Me
