@@ -23,4 +23,9 @@
 - **Mobile**: PWA, React Native, Flutter
 
 ### Follow Me
-- [Blogger](https://theuiguru.blogspot.com) | [Codepen](https://codepen.io/cthomas) | [Twitter](https://twitter.com/cthomas1211) | [LinkedIn](https://linkedin.com/in/christhomas101) | [Instagram](https://instagr.am/cthomas1211) | [YouTube](https://youtube.com/ndnweb24)
+<a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" width="22" align="left"></a> 
+<a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="22" align="left"></a> 
+<a href="https://twitter.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" align="left"></a> 
+<a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" align="left"></a> 
+<a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22" align="left"></a> 
+<a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22" align="left"></a>
