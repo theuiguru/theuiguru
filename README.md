@@ -18,7 +18,12 @@
 - 📺 Entertainment
 
 ### Skills
-- **Front-End**: (X)HTML(5), CSS(3), JavaScript, jQuery, React, Vue
+- **Front-End**: <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="22" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="22" align="left"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="22" align="left"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" width="22" align="left"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left"> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuedotjs.svg" width="22" align="left">
 - **Back-End**: Java, C#, SQL, PHP, Python, Ruby, R
 - **Mobile**: PWA, React Native, Flutter
 
