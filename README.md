@@ -18,14 +18,29 @@
 - 📺 Entertainment
 
 ### Skills
-- **Front-End**: <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="22" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="22" align="left"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="22" align="left"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" width="22" align="left"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuedotjs.svg" width="22" align="left">
-- **Back-End**: Java, C#, SQL, PHP, Python, Ruby, R
-- **Mobile**: PWA, React Native, Flutter
+<ul>
+<b>Front-End</b>:
+<li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="22" align="left" style="color:#E34F26"></li>
+<li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" width="22" align="left" style="color:#1572B6"></li>
+<li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="22" align="left" style="color:#F7DF1E"></li>
+<li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" width="22" align="left" style="color:#0769AD"></li>
+<li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left" style="color:#61DAFB"></li>
+<!--<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuedotjs.svg" width="22" align="left" style="color:">-->
+</ul>
+<b>Back-End</b>:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node.svg" width="22" align="left" style="color:#339933">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="22" align="left" style="color:#007396">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" width="22" align="left" style="color:#239120">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" width="22" align="left" style="color:#4479A1">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" width="22" align="left" style="color:#777BB4">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="22" align="left" style="color:#3776AB">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" width="22" align="left" style="color:#CC342D">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" width="22" align="left" style="color:#276DC3">
+
+<b>Mobile</b>:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pwa.svg" width="22" align="left" style="color:#5A0FC8">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left" style="color:#61DAFB">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="22" align="left" style="color:#02569B">
 
 ### Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" width="22" align="left"></a> 
