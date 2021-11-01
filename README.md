@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" width="22" align="left" style="color:#0769AD">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left" style="color:#61DAFB">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/vuedotjs.svg" width="22" align="left" style="color:#4FC08D">
-
+<br/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/nodedotjs.svg" width="22" align="left" style="color:#339933">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" width="22" align="left" style="color:#007396">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" width="22" align="left" style="color:#239120">
@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="22" align="left" style="color:#3776AB">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" width="22" align="left" style="color:#CC342D">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" width="22" align="left" style="color:#276DC3">
-
+<br/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" width="22" align="left" style="color:#5A0FC8">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left" style="color:#61DAFB">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="22" align="left" style="color:#02569B">
