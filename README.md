@@ -38,8 +38,6 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left" style="color:#61DAFB">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="22" align="left" style="color:#02569B">
 
-
-
 ### Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" width="22" align="left"></a> 
 <a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="22" align="left"></a> 
