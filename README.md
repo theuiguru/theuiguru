@@ -11,11 +11,11 @@
 <img src="https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif?cid=82a1493bbwntmysi6q7atew19hnrnwxxmky3q62fm38p4g6k&rid=giphy.gif" alt="Power Rangers" width="350" /></div>
 
 ### Interests
-- 💻  Technology
-- ⛳  Golf
-- 🧘🏽‍♂️  Philosophy
-- 🏋️‍♂️  Fitness
-- 📺  Entertainment
+- 💻 Technology
+- ⛳ Golf
+- 🧘🏽‍♂️ Philosophy
+- 🏋️‍♂️ Fitness
+- 📺 Entertainment
 
 ### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" width="22" align="left" style="color:#E34F26">
