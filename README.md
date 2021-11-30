@@ -31,15 +31,15 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" width="22" align="left" style="color:#777BB4">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" width="22" align="left" style="color:#3776AB">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" width="22" align="left" style="color:#CC342D">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" width="22" align="left" style="color:#276DC3">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" width="22" align="left" style="color:#5A0FC8">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left" style="color:#61DAFB">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="22" align="left" style="color:#02569B">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" width="22">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" width="22">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="22">
 
 ### Follow Me
-<a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" width="22" align="left"></a> 
-<a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="22" align="left"></a> 
-<a href="https://twitter.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22" align="left"></a> 
-<a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22" align="left"></a> 
-<a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22" align="left"></a> 
-<a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22" align="left"></a>
+<a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" width="22"></a> 
+<a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" width="22"></a> 
+<a href="https://twitter.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22"></a> 
+<a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"></a> 
+<a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22"></a> 
+<a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" width="22"></a>
