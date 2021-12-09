@@ -14,6 +14,7 @@
 - 💻 Technology
 - ⛳ Golf
 - 🧘🏽‍♂️ Philosophy
+- ⛪️ Faith
 - 🏋️‍♂️ Fitness
 - 📺 Entertainment
 
