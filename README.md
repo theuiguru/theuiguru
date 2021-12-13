@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" width="22" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" width="22" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" width="22" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="22" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React Native" width="22" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" width="22" align="left"><br/>
 
 ### Follow Me
