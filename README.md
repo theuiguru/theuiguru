@@ -39,6 +39,8 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="25" align="left"><br/>
 
 ### Follow Me
+[Personal Site](https://ct.surge.sh)
+
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Blogger" width="25"></a> 
 <a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" alt="CodePen" width="25"></a> 
 <a href="https://twitter.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="25"></a> 
