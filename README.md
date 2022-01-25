@@ -1,6 +1,6 @@
 # 🖖🏾 Hi there!
 
-*Every protagonist of every story, show, or movie is the story of my life.*
+***Every protagonist of every story, show, or movie is the story of my life.***
 
 <div style="display:grid; grid-template-columns:repeat(3, 1fr);"><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" width="300" />
