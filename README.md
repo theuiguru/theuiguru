@@ -45,3 +45,5 @@
 <a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="23"></a> 
 <a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="23"></a> 
 <a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="23"></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=flag-india&hide_border=false&border_radius=8px&&count_private=true&include_all_commits=true" />
