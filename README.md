@@ -2,6 +2,8 @@
 
 ***Every protagonist of every story, show, or movie is the story of my life.***
 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=011E41" /> <img src="https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=flag-india&hide_border=false&border_radius=8px&&count_private=true&include_all_commits=true" />
+
 <div style="display:grid; grid-template-columns:repeat(3, 1fr);"><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" width="300" />
 <img src="https://media.giphy.com/media/7pyYl7h9VnSyUHYaw9/giphy.gif" alt="Kevin Pearson" width="300" />
@@ -45,5 +47,3 @@
 <a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="23"></a> 
 <a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="23"></a> 
 <a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="23"></a>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=flag-india&hide_border=false&border_radius=8px&&count_private=true&include_all_commits=true" />
