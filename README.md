@@ -13,6 +13,11 @@
 <img src="https://media1.giphy.com/media/l0EwYGlvQ7STj3wyc/giphy.gif" alt="Jimmy McGill" width="300" />
 <img src="https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif" alt="Power Rangers" width="350" /></div>
 
+<!--<details>
+ <summary><h3>About Me</h3></summary>
+ - Welcome to my website!
+</details>-->
+
 ### Interests
 - 💻 Technology
 - ⛳ Golf
