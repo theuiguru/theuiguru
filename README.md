@@ -22,8 +22,7 @@
 - 📺 Entertainment
 
 ### Skills
-<img src="https://cdn.jsdelivr.net/npm/simple-<details>
- <summary><h3>About Me</h3></summary>icons@v3/icons/html5.svg" alt="HTML5" width="25" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" alt="jQuery" width="25" align="left">
