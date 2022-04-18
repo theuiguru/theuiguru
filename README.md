@@ -13,11 +13,6 @@
 <img src="https://media1.giphy.com/media/l0EwYGlvQ7STj3wyc/giphy.gif" alt="Jimmy McGill" width="300" />
 <img src="https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif" alt="Power Rangers" width="350" /></div>
 
-<!--<details>
- <summary><h3>About Me</h3></summary>
- - Welcome to my website!
-</details>-->
-
 ### Interests
 - 💻 Technology
 - ⛳ Golf
@@ -26,8 +21,7 @@
 - 🏋️‍♂️ Fitness
 - 📺 Entertainment
 
-<details>
- <summary><h3>Skills</h3></summary>
+### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-<details>
  <summary><h3>About Me</h3></summary>icons@v3/icons/html5.svg" alt="HTML5" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="25" align="left">
@@ -46,14 +40,11 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" alt="PWA" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React Native" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="25" align="left">
-</details>
-<br/><br/>
-<details>
- <summary><h3>Follow Me</h3></summary>
+
+### Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Blogger" width="23"></a> 
 <a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" alt="CodePen" width="23"></a> 
 <a href="https://twitter.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="23"></a> 
 <a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="23"></a> 
 <a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="23"></a> 
 <a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="23"></a>
-</details>
