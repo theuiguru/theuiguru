@@ -19,7 +19,7 @@
 - 🧘🏽‍♂️ Philosophy
 - ⛪️ Faith
 - 🏋️‍♂️ Fitness
-- 📺 Entertainment
+- 📺 TV/Entertainment
 
 ### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="25" align="left">
