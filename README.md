@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" alt="PWA" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React Native" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="25" align="left">
-<br/><br/><br/>
+<br/><br/>
 
 ### Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Blogger" width="30"></a> 
