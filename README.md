@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" title="PWA" width="30" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React Native" width="30" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" title="Flutter" width="30" align="left">
-<br/>
+<br/><br/>
 
 
 ### Follow Me
