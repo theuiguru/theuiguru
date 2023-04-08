@@ -23,23 +23,23 @@
 - 📺 Entertainment
 
 ### Skills
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" title="CSS3" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" title="jQuery" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/vuedotjs.svg" title="Vue" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/nodedotjs.svg" title="nodeJS" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="Java" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" title="C#" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" title="MySQL" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" title="PHP" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" titles="Ruby" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" title="R" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" title="PWA" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React Native" width="30" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" title="Flutter" width="30" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" title="CSS3" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" title="jQuery" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/vuedotjs.svg" title="Vue" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/nodedotjs.svg" title="nodeJS" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="Java" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" title="C#" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" title="MySQL" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" title="PHP" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" titles="Ruby" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" title="R" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" title="PWA" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React Native" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" title="Flutter" width="20" align="left">
 <br/><br/>
 
 ### Follow Me
