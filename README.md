@@ -2,9 +2,6 @@
 
 ***Every protagonist of every story, show, or movie is the story of my life.***
 
-<!--dynamic quote script goes here-->
-<script>document.write('hello');</script>
-
 <img src="http://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=011E41" />
 <!--<img src="https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=flag-india&hide_border=false&border_radius=8px&&count_private=true&include_all_commits=true" />-->
 
