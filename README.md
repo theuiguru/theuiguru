@@ -43,6 +43,8 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" title="Postman" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jirasoftware.svg" title="Jira" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/confluence.svg" title="Confluence" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" title="Confluence" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="Confluence" width="20" align="left">
 <br>
 
 ### Follow Me
