@@ -45,6 +45,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/confluence.svg" title="Confluence" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" title="GCP" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="AWS" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleanalytics.svg" title="Google Analytics" width="20" align="left">
 <br>
 
 ### Follow Me
