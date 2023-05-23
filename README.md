@@ -21,6 +21,7 @@
 - ⛪️ Faith
 - 🏋️‍♂️ Fitness
 - 📺 Entertainment
+- 🤸🏻 Dance
 
 ### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="20" align="left">
