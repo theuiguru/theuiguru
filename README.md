@@ -4,7 +4,8 @@
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=011E41" />
 
-<div style="display:grid; grid-template-columns:repeat(3, 1fr);"><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
+<div style="display:grid; grid-template-columns:repeat(3, 1fr);">
+<img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" title="Charlie Kelly" width="300" />
 <img src="https://media.giphy.com/media/7pyYl7h9VnSyUHYaw9/giphy.gif" alt="Kevin Pearson" title="Kevin Pearson" width="300" />
 <img src="https://media2.giphy.com/media/Yy2H6trIkODoA/giphy.gif" alt="George Costanza" title="George Costanza" width="260" />
@@ -12,7 +13,8 @@
 <img src="https://media2.giphy.com/media/LiljwvntZmf4c/giphy.gif" alt="Jesse Pinkman" title="Jesse Pinkman" width="200" />
 <img src="https://media1.giphy.com/media/l0EwYGlvQ7STj3wyc/giphy.gif" alt="Jimmy McGill" title="Jimmy McGill" width="300" />
 <img src="https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif" alt="Power Rangers" title="Power Rangers" width="350" />
-<img src="https://media.giphy.com/media/EktxJpVkq9VcCu5YjT/giphy-downsized-large.gif" alt="Jordan Spieth" title="Jordan Spieth" width="350"></div>
+<img src="https://media.giphy.com/media/EktxJpVkq9VcCu5YjT/giphy-downsized-large.gif" alt="Jordan Spieth" title="Jordan Spieth" width="350">
+</div>
 
 ### Interests
 - 💻 Technology
