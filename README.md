@@ -20,7 +20,6 @@
 - 💻 Technology
 - ⛳ Golf
 - 🎾 Tennis
-- 🏀 Basketball
 - 🕹️ Games
 - 🧘🏽‍♂️ Philosophy
 - ⛪️ Faith
