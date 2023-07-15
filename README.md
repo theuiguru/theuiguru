@@ -24,8 +24,8 @@
 - 🧘🏽‍♂️ Philosophy
 - ⛪️ Faith
 - 🏋️‍♂️ Fitness
-- 📺 Entertainment
 - 🤸🏻 Dance
+- 📺 Entertainment
 
 ### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="20" align="left">
