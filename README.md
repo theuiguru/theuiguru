@@ -2,7 +2,7 @@
 
 ***Every protagonist of every story, show, or movie is the story of my life.***
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=011E41" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=011E41" /> ![CT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=tokyonight)
 
 <div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" title="Charlie Kelly" width="300" />
