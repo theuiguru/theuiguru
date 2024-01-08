@@ -39,14 +39,10 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" title="Python" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" titles="Ruby" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" title="R" width="20" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/pwa.svg" title="PWA" width="20" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" title="Flutter" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" title="Postman" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jirasoftware.svg" title="Jira" width="20" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/confluence.svg" title="Confluence" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" title="GCP" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="AWS" width="20" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleanalytics.svg" title="Google Analytics" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" title="Microsoft Excel" width="20" align="left">
 <br><br>
 
