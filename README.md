@@ -1,6 +1,6 @@
 # 🖖🏾 Hi there!
 
-***Every protagonist of every story, show, or movie is the story of my life.***
+### ***Every protagonist of every story, show, or movie is the story of my life.***
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=material&border_radius=0)](https://git.io/streak-stats)
 
