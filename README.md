@@ -5,6 +5,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=material&border_radius=0)](https://git.io/streak-stats)
 
 <div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
+<img src="https://media2.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" title="Charlie Kelly" width="300" />
 <img src="https://media.giphy.com/media/7pyYl7h9VnSyUHYaw9/giphy.gif" alt="Kevin Pearson" title="Kevin Pearson" width="300" />
 <img src="https://media2.giphy.com/media/Yy2H6trIkODoA/giphy.gif" alt="George Costanza" title="George Costanza" width="260" />
@@ -41,6 +42,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" title="R" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" title="Postman" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jirasoftware.svg" title="Jira" width="20" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" title="Netlify" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" title="GCP" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="AWS" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" title="Microsoft Excel" width="20" align="left">
