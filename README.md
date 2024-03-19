@@ -6,6 +6,7 @@
 
 <div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" alt="Michael Scott" title="Michael Scott" width="350" />
+<img src="https://media2.giphy.com/media/VMO6qeIbr7JRLnLTGw/giphy.gif" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" title="Charlie Kelly" width="300" />
 <img src="https://media.giphy.com/media/7pyYl7h9VnSyUHYaw9/giphy.gif" alt="Kevin Pearson" title="Kevin Pearson" width="300" />
 <img src="https://media2.giphy.com/media/Yy2H6trIkODoA/giphy.gif" alt="George Costanza" title="George Costanza" width="260" />
