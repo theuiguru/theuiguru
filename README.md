@@ -14,7 +14,8 @@
 <img src="https://media2.giphy.com/media/LiljwvntZmf4c/giphy.gif" alt="Jesse Pinkman" title="Jesse Pinkman" width="200" />
 <img src="https://media1.giphy.com/media/l0EwYGlvQ7STj3wyc/giphy.gif" alt="Jimmy McGill" title="Jimmy McGill" width="300" />
 <img src="https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif" alt="Blue Power Ranger" title="Blue Power Ranger" width="350" />
-<img src="https://media.giphy.com/media/EktxJpVkq9VcCu5YjT/giphy-downsized-large.gif" alt="Jordan Spieth" title="Jordan Spieth" width="350"></div>
+<img src="https://media.giphy.com/media/EktxJpVkq9VcCu5YjT/giphy-downsized-large.gif" alt="Jordan Spieth" title="Jordan Spieth" width="350">
+<img src="https://media1.giphy.com/media/Xf8MSgjVKijIs/giphy.gif?cid=6c09b952bpna9qks5edlpo4v5o7t6njjugw0hua8095qqvep&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Lucas Scott" title="Lucas Scott" width="350"></div>
 
 ### Interests
 - 💻 Technology
