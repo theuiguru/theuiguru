@@ -23,7 +23,7 @@
 - 🧘🏽‍♂️ Philosophy
 - ⛪️ Faith
 - 🏋️‍♂️ Fitness
-- 🤸🏻 Dance
+- 🕺 Dance
 - 📺 Entertainment
 - 🕹️ Games
 
