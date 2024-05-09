@@ -55,7 +55,7 @@
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" title="Blogger" width="20"></a> 
 <a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" title="CodePen" width="20"></a> 
 <a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram" width="20"></a> 
-<a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LinkedIn" width="20"></a>  
+<a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LinkedIn" width="20"></a> 
 <a href="https://medium.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" title="Medium" width="20"></a> 
 <a href="https://twitter.com/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" title="Twitter" width="20"></a> 
 <a href="https://youtube.com/ndnweb24" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" title="YouTube" width="20"></a>
