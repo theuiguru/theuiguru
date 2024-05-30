@@ -33,7 +33,6 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" title="jQuery" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React" width="20" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwind.svg" title="TailwindCSS" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/vuedotjs.svg" title="Vue" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/nodedotjs.svg" title="nodeJS" width="20" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="Java" width="20" align="left">
