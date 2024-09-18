@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theuiguru&theme=material&border_radius=0)](https://git.io/streak-stats)
 
-<div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
+<img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/9PaC2UWEsnIG6nXcsn/giphy.gif" alt="Charlie Kelly" title="Charlie Kelly" width="300" />
 <img src="https://media.giphy.com/media/7pyYl7h9VnSyUHYaw9/giphy.gif" alt="Kevin Pearson" title="Kevin Pearson" width="300" />
@@ -15,7 +15,6 @@
 <img src="https://media4.giphy.com/media/b3Owrrk9ZsC4w/giphy.gif" alt="Blue Power Ranger" title="Blue Power Ranger" width="350" />
 <img src="https://media.giphy.com/media/EktxJpVkq9VcCu5YjT/giphy-downsized-large.gif" alt="Jordan Spieth" title="Jordan Spieth" width="350">
 <img src="https://media0.giphy.com/media/3o85xEFRBYvAnamJnG/giphy.gif" alt="Breakdance" title="Breakdance" width="350">
-</div>
 
 ### Interests
 - 💻 Technology
