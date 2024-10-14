@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" title="GCP" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="AWS" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" title="Microsoft Excel" width="25" align="left">
-<br><br>
+<br>
 
 ### Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" title="Blogger" width="30"></a> 
