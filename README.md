@@ -29,11 +29,10 @@
 ### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" title="CSS3" width="25" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript" width="25" align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript/Node" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" title="jQuery" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" title="React" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/vuedotjs.svg" title="Vue" width="25" align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/nodedotjs.svg" title="nodeJS" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" title="Java" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" title="C#" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" title="MySQL" width="25" align="left">
