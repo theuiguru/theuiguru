@@ -48,7 +48,7 @@
 
 ### Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" title="Blogger" width="35"></a> 
-<a href="https://bsky.app/profile/cthomas.bsky.social" target="_blank">🦋</a> 
+<a href="https://bsky.app/profile/cthomas.bsky.social" target="_blank"><img src="https://simpleicons.org/icons/bluesky.svg" title="Bluesky" width="35"></a> 
 <a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" title="CodePen" width="35"></a> 
 <a href="https://instagr.am/cthomas1211" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram" width="35"></a> 
 <a href="https://linkedin.com/in/christhomas101" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LinkedIn" width="35"></a> 
