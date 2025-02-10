@@ -15,7 +15,14 @@
 <img src="https://media0.giphy.com/media/3o85xEFRBYvAnamJnG/giphy.gif" alt="Breakdance" title="Breakdance" width="350"></div>
 
 ### Interests
-💻 Technology ⛳ Golf 🧘🏽‍♂️ Philosophy ⛪️ Faith 🏋️‍♂️ Fitness 🕺 Dance 📺 Entertainment 🕹️ Games
+- 💻 Technology
+- ⛳ Golf
+- 🧘🏽‍♂️ Philosophy
+- ⛪️ Faith
+- 🏋️‍♂️ Fitness
+- 🕺 Dance
+- 📺 Entertainment
+- 🕹️ Games
 
 ### Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="25" align="left">
