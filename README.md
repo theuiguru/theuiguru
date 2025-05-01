@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/EktxJpVkq9VcCu5YjT/giphy-downsized-large.gif" alt="Jordan Spieth" title="Jordan Spieth" width="300">
 <img src="https://media0.giphy.com/media/3o85xEFRBYvAnamJnG/giphy.gif" alt="Breakdance" title="Breakdance" width="300"></div>
 
-### Interests
+## Interests
 - 💻 Technology
 - ⛳ Golf
 - 🧘🏽‍♂️ Philosophy
@@ -22,7 +22,7 @@
 - 📺 Entertainment
 - 🕹️ Games
 
-### Skills
+## Skills
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" title="HTML5" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" title="CSS3" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" title="JavaScript/Node" width="25" align="left">
@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" title="Microsoft Excel" width="25" align="left">
 <br/><br/>
 
-### Follow Me
+## Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" title="Blogger" width="28"></a> 
 <a href="https://bsky.app/profile/cthomas.bsky.social" target="_blank"><img src="https://simpleicons.org/icons/bluesky.svg" title="Bluesky" width="28"></a> 
 <a href="https://codepen.io/cthomas" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" title="CodePen" width="28"></a> 
