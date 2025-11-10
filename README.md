@@ -18,6 +18,7 @@
 ## Interests
 - 💻 Technology
 - ⛳ Golf
+- 🏓 Pickleball
 - 🧘🏽‍♂️ Philosophy
 - ⛪️ Faith
 - 🏋️‍♂️ Fitness
