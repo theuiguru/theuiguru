@@ -2,6 +2,10 @@
 
 <a href="https://ct.surge.sh">My webpage</a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=theuiguru&color=yellow)
+
+![CT's OSS Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theuiguru&bg_color=333333&color=ffff00&line=ffff00&point=ffff33&area=true&hide_border=true)
+
 #### ***Every protagonist of every story, show, or movie is the story of my life.***
 <div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
 <img src="https://media2.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" alt="Michael Scott" title="Michael Scott" width="230" />
@@ -47,6 +51,17 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="AWS" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" title="Microsoft Excel" width="25" align="left">
 <br/><br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Follow Me
 <a href="https://theuiguru.blogspot.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" title="Blogger" width="28"></a> 
