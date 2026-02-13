@@ -51,8 +51,6 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" title="AWS" width="25" align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftexcel.svg" title="Microsoft Excel" width="25" align="left">
 <br/><br/>
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-0099e5?style=flat-square&logo=css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
