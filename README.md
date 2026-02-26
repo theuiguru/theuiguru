@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theuiguru&color=yellow)
 
-![CT's OSS Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theuiguru&bg_color=333333&color=ffff00&line=ffff00&point=ffff33&area=true&hide_border=true)
+![CT's OSS Contributions](https://github-readme-activity-graph.vercel.app/graph?username=theuiguru&bg_color=999999&color=ffff00&line=ffff00&point=ffff33&area=true&hide_border=true)
 
 #### ***Every protagonist of every story, show, or movie is the story of my life.***
 <div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
