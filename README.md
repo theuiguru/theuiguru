@@ -1,10 +1,12 @@
 # 🖖🏾 Hey there!
 
-<a href="https://ct.surge.sh">My webpage</a>
+<a href="https://ct.surge.sh">My webpage</a> ![Profile Views](https://komarev.com/ghpvc/?username=theuiguru&color=yellow)
 
-![Profile Views](https://komarev.com/ghpvc/?username=theuiguru&color=yellow)
+[![CT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=yeblu)](https://github.com/theuiguru)
 
-![CT's Code Activity](https://github-readme-activity-graph.vercel.app/graph?username=theuiguru&bg_color=303030&color=ffff33&line=ffff33&point=ffff00&area=true&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theuiguru&layout=compact&theme=cobalt2)](https://github.com/theuiguru)
+
+![CT's Code Activity](https://github-readme-activity-graph.vercel.app/graph?username=theuiguru&bg_color=000000&color=ffff00&line=ffff00&point=ffff00&area=true&hide_border=true)
 
 #### ***Every protagonist of every story, show, or movie is the story of my life.***
 <div><img src="https://i.imgur.com/HTBxpUz.png" alt="Michael Scott" title="Michael Scott" width="350" />
