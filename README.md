@@ -2,9 +2,7 @@
 
 <a href="https://ct.surge.sh">My webpage</a> ![Profile Views](https://komarev.com/ghpvc/?username=theuiguru&color=yellow)
 
-[![CT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=yeblu)](https://github.com/theuiguru)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theuiguru&layout=compact&theme=cobalt2)](https://github.com/theuiguru)
+[![CT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theuiguru&show_icons=true&theme=yeblu)](https://github.com/theuiguru) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theuiguru&layout=compact&theme=cobalt2)](https://github.com/theuiguru)
 
 ![CT's Code Activity](https://github-readme-activity-graph.vercel.app/graph?username=theuiguru&bg_color=000000&color=ffff00&line=ffff00&point=ffff00&area=true&hide_border=true)
 
